@@ -1,7 +1,6 @@
 # Nauka GITa
 
 **Zaczynam z GITem**
-![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png | width=100)
 
 Zadania do wykonania
 * Zadanie 1
@@ -14,5 +13,6 @@ Zadania do wykonania
 1. To jest fajne
    - to tez
    - i to
-   
+
 No i qpa nie idzie zmniejszyc obrazka
+![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png)
