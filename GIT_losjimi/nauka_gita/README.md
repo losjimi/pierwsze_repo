@@ -1,7 +1,7 @@
 # Nauka GITa
 
 **Zaczynam z GITem**
-![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png)
+![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png =250x250)
 
 
 Zadania do wykonania
@@ -13,5 +13,5 @@ Zadania do wykonania
 ##A tu nowosc dodana jako druga
 
 1. To jest fajne
-  - to tez
-  - i to
+   - to tez
+   - i to
