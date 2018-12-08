@@ -1,8 +1,7 @@
 # Nauka GITa
 
 **Zaczynam z GITem**
-![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png =250x250)
-
+![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png){:height="50%" width="50%"}
 
 Zadania do wykonania
 * Zadanie 1
