@@ -14,5 +14,9 @@ Zadania do wykonania
    - to tez
    - i to
 
+
+
+
+   A moze jednak cos dodam ... poprawka z 09122018
 No i qpa nie idzie zmniejszyc obrazka
 ![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png)
