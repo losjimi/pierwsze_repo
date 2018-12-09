@@ -18,5 +18,12 @@ Zadania do wykonania
 
 
    A moze jednak cos dodam ... poprawka z 09122018
+
+2. lista z 9go
+    - ojoj
+    - ojojojoojj
+
+
+    
 No i qpa nie idzie zmniejszyc obrazka
 ![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png)
